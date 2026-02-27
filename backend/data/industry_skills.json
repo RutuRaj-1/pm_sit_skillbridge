@@ -1,0 +1,52 @@
+{
+  "Full Stack Developer": {
+    "skills": ["JavaScript", "React", "Node.js", "SQL", "MongoDB", "HTML/CSS", "REST APIs", "Git", "Docker"],
+    "levels": {
+      "JavaScript": 80, "React": 75, "Node.js": 70, "SQL": 65,
+      "MongoDB": 60, "HTML/CSS": 85, "REST APIs": 70, "Git": 75, "Docker": 55
+    }
+  },
+  "Backend Developer": {
+    "skills": ["Python", "Java", "SQL", "MongoDB", "REST APIs", "Docker", "Microservices", "Redis", "System Design"],
+    "levels": {
+      "Python": 80, "Java": 75, "SQL": 80, "MongoDB": 70,
+      "REST APIs": 80, "Docker": 65, "Microservices": 60, "Redis": 55, "System Design": 65
+    }
+  },
+  "Frontend Developer": {
+    "skills": ["JavaScript", "React", "TypeScript", "HTML/CSS", "REST APIs", "Git"],
+    "levels": {
+      "JavaScript": 85, "React": 85, "TypeScript": 70, "HTML/CSS": 90, "REST APIs": 65, "Git": 75
+    }
+  },
+  "Data Scientist": {
+    "skills": ["Python", "Machine Learning", "Deep Learning", "SQL", "DSA"],
+    "levels": {
+      "Python": 85, "Machine Learning": 80, "Deep Learning": 70, "SQL": 70, "DSA": 65
+    }
+  },
+  "ML Engineer": {
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Docker", "AWS", "SQL"],
+    "levels": {
+      "Python": 90, "Machine Learning": 85, "Deep Learning": 80, "Docker": 65, "AWS": 60, "SQL": 65
+    }
+  },
+  "DevOps Engineer": {
+    "skills": ["Docker", "Kubernetes", "Linux", "AWS", "Git", "Python", "System Design"],
+    "levels": {
+      "Docker": 85, "Kubernetes": 80, "Linux": 80, "AWS": 75, "Git": 85, "Python": 65, "System Design": 70
+    }
+  },
+  "Cloud Architect": {
+    "skills": ["AWS", "Docker", "Kubernetes", "System Design", "Python", "Linux"],
+    "levels": {
+      "AWS": 90, "Docker": 80, "Kubernetes": 80, "System Design": 85, "Python": 70, "Linux": 75
+    }
+  },
+  "AI Engineer": {
+    "skills": ["Python", "Machine Learning", "Deep Learning", "REST APIs", "Docker", "System Design"],
+    "levels": {
+      "Python": 90, "Machine Learning": 85, "Deep Learning": 80, "REST APIs": 70, "Docker": 65, "System Design": 70
+    }
+  }
+}

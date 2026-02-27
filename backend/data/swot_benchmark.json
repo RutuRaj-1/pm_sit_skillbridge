@@ -1,0 +1,74 @@
+{
+    "strengths_indicators": [
+        "strong GPA",
+        "internship experience",
+        "open source contributions",
+        "certifications",
+        "projects",
+        "leadership",
+        "publications",
+        "competitive programming"
+    ],
+    "weaknesses_indicators": [
+        "no internship",
+        "no projects",
+        "few skills",
+        "no certifications",
+        "low assessment score",
+        "limited experience"
+    ],
+    "opportunities": {
+        "Full Stack Developer": [
+            "Remote work boom",
+            "Startup ecosystem growth",
+            "Open source contributions",
+            "Freelancing platforms"
+        ],
+        "Data Scientist": [
+            "AI/ML revolution",
+            "Government data initiatives",
+            "Research positions",
+            "EdTech analytics"
+        ],
+        "Backend Developer": [
+            "API economy growth",
+            "Cloud migration wave",
+            "Fintech expansion",
+            "SaaS proliferation"
+        ],
+        "Frontend Developer": [
+            "Mobile-first web demand",
+            "Web3 frontends",
+            "No-code platforms need engineers",
+            "Design systems"
+        ],
+        "ML Engineer": [
+            "Generative AI tools",
+            "AutoML platforms",
+            "Enterprise AI adoption",
+            "Research labs"
+        ],
+        "DevOps Engineer": [
+            "Cloud native shift",
+            "Security automation",
+            "SRE roles growing",
+            "Platform engineering"
+        ],
+        "default": [
+            "Remote work opportunities",
+            "Startup ecosystems",
+            "Freelance platforms",
+            "Open source community",
+            "Online learning resources"
+        ]
+    },
+    "threats": {
+        "default": [
+            "AI automation of entry-level tasks",
+            "Market saturation for junior roles",
+            "Rapid technology change",
+            "Global competition for remote jobs",
+            "Economic uncertainty affecting hiring"
+        ]
+    }
+}

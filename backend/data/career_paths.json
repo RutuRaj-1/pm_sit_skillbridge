@@ -1,0 +1,174 @@
+[
+    {
+        "id": "fullstack",
+        "title": "Full Stack Developer",
+        "requiredSkills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "HTML/CSS",
+            "REST APIs",
+            "Git"
+        ],
+        "avgSalaryLPA": 12,
+        "demandLevel": "Very High",
+        "topCompanies": [
+            "Google",
+            "Amazon",
+            "Flipkart",
+            "Swiggy",
+            "Razorpay"
+        ],
+        "description": "Build complete web applications from database to UI. High demand in startups and product companies.",
+        "growthPath": [
+            "Junior Dev",
+            "Mid Dev",
+            "Senior Dev",
+            "Tech Lead",
+            "VP Engineering"
+        ]
+    },
+    {
+        "id": "backend",
+        "title": "Backend Developer",
+        "requiredSkills": [
+            "Python",
+            "Java",
+            "SQL",
+            "REST APIs",
+            "Docker",
+            "System Design"
+        ],
+        "avgSalaryLPA": 14,
+        "demandLevel": "Very High",
+        "topCompanies": [
+            "Infosys",
+            "TCS",
+            "Amazon",
+            "Microsoft",
+            "Thoughtworks"
+        ],
+        "description": "Design and build server-side logic, APIs, and databases. Strong demand in enterprise and fintech.",
+        "growthPath": [
+            "Junior Backend",
+            "Mid Backend",
+            "Senior Backend",
+            "Architect",
+            "CTO"
+        ]
+    },
+    {
+        "id": "datascience",
+        "title": "Data Scientist",
+        "requiredSkills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "Statistics",
+            "Deep Learning"
+        ],
+        "avgSalaryLPA": 16,
+        "demandLevel": "High",
+        "topCompanies": [
+            "Google",
+            "Microsoft",
+            "Mu Sigma",
+            "Tiger Analytics",
+            "Fractal"
+        ],
+        "description": "Extract insights from data using ML models and statistical analysis. Huge demand across all industries.",
+        "growthPath": [
+            "Data Analyst",
+            "Data Scientist",
+            "Senior DS",
+            "Principal DS",
+            "Chief Data Officer"
+        ]
+    },
+    {
+        "id": "mleng",
+        "title": "ML Engineer",
+        "requiredSkills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Docker",
+            "AWS"
+        ],
+        "avgSalaryLPA": 18,
+        "demandLevel": "Very High",
+        "topCompanies": [
+            "Google",
+            "OpenAI",
+            "Microsoft",
+            "NVIDIA",
+            "Qualcomm"
+        ],
+        "description": "Deploy ML models to production at scale. Fastest growing role in tech, especially with GenAI boom.",
+        "growthPath": [
+            "ML Engineer",
+            "Senior ML Eng",
+            "Staff ML Eng",
+            "AI Research",
+            "AI Director"
+        ]
+    },
+    {
+        "id": "devops",
+        "title": "DevOps Engineer",
+        "requiredSkills": [
+            "Docker",
+            "Kubernetes",
+            "Linux",
+            "AWS",
+            "Git"
+        ],
+        "avgSalaryLPA": 15,
+        "demandLevel": "High",
+        "topCompanies": [
+            "Amazon",
+            "Microsoft",
+            "Atlassian",
+            "HashiCorp",
+            "Instana"
+        ],
+        "description": "Automate deployment pipelines and manage cloud infrastructure. Critical for scaling engineering teams.",
+        "growthPath": [
+            "DevOps Eng",
+            "Senior DevOps",
+            "SRE",
+            "Platform Eng Lead",
+            "Head of Infrastructure"
+        ]
+    },
+    {
+        "id": "ai",
+        "title": "AI Engineer",
+        "requiredSkills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "REST APIs",
+            "System Design"
+        ],
+        "avgSalaryLPA": 20,
+        "demandLevel": "Explosive",
+        "topCompanies": [
+            "OpenAI",
+            "Anthropic",
+            "Google DeepMind",
+            "Meta AI",
+            "Microsoft"
+        ],
+        "description": "Build AI-powered applications and integrate LLMs into products. The hottest role of the decade.",
+        "growthPath": [
+            "AI Engineer",
+            "Senior AI Eng",
+            "AI Architect",
+            "Research Scientist",
+            "AI Director"
+        ]
+    }
+]
